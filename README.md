@@ -10,7 +10,7 @@ However I used the same data set that zonination provided, which is here:http://
 Of course I used the same SQL query: SELECT objname, mod0, vgsr WHERE mod0 IS NOT NULL
 
 I was concerned about the exclusion of outliers, and also the removal of the y-intercepts in the regression lines.    
-As my first project in python, I could not grasp the concept of outliers. 
+As my first project in python, I have difficulty grasping the concept of outliers. 
 It seemed like when to exclude outliers and how to exclude it depended on the analyst and the data set they were looking at.  
 Being a newbie to the field of data science, I asked a friend what criteria to use to determine outliers.  
 He suggested that I use standard deviations and averages. If a data point was above or below standard deviation, omit it.  
