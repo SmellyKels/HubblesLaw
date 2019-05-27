@@ -24,7 +24,6 @@ This is not in agreement with the latest measurement of 68.0 +4.2, −4.1.
 However when removing the outliers, the Hubble constant is 65.4.  
 This agrees with the latest measurement.  
 
-The excel spreadsheet is the same procedure, but the intercept is removed.
 
 
 ![alt text](https://github.com/SmellyKels/HubblesLaw/blob/master/Figure_1.png)
